@@ -74,11 +74,11 @@ Configure the response cards for the `riskLevel` slot as is shown bellow:
 
 | Card 1                              | Card 2                              |
 | ----------------------------------- | ----------------------------------- |
-| ![Card 1 sample](Images/card1.png)  | ![Card 2 sample](Images/card2.png)  |
+| ![Card 1 sample](card1.png)  | ![Card 2 sample](card2.png)  |
 
 | Card 3                              | Card 4                              |
 | ----------------------------------- | ----------------------------------- |
-| ![Card 3 sample](Images/card3.png)  | ![Card 4 sample](Images/card4.png)  |
+| ![Card 3 sample](card3.png)  | ![Card 4 sample](card4.png)  |
 
 
 # HERE IS THE BOT!
