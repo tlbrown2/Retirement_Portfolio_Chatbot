@@ -5,7 +5,7 @@ I used the AWS Lex Bot and the AWS Lambda to incorporate python code.
 
 ## Option 1: Robo Advisor for Retirement Plans
 
-![Robot](Images/robot.jpg)
+![Robot](robot.jpg)
 
 *Photo by [Alex Knight](https://www.pexels.com/@alex-knight-1272316?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/high-angle-photo-of-robot-2599244/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) | [Free License](https://www.pexels.com/photo-license/)*
 
