@@ -62,7 +62,7 @@ This bot will use four slots, three using built-in types and one custom slot nam
 
 To format the response cards for the intent, click on the gear icon next to the intent as seen in the image below:
 
-![gear_icon](Images/gear_icon.png)
+![gear_icon](gear_icon.png)
 
 Next, input the following data in the resulting display window:
 
